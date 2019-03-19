@@ -1,7 +1,6 @@
 ---
 label: bla
 hide_body: false
-display_field: test
 fields:
 - type: textarea
 - type: list
