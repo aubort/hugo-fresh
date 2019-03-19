@@ -1,0 +1,23 @@
+---
+label: bla
+hide_body: false
+display_field: test
+fields:
+- type: textarea
+- type: list
+  name: test
+  label: test
+  description: asd
+  config:
+    min: '1'
+    max: '4'
+    use_select: false
+    source:
+      type: documents
+  default:
+  - f
+  - e
+  - d
+  - c
+  - b
+  - a
