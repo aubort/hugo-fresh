@@ -20,3 +20,5 @@ fields:
   - c
   - b
   - a
+pages:
+- content/list.md
